@@ -44,4 +44,4 @@ RailSathi is a Python-based Railway Reservation System developed as a Data Struc
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/RailSathi.git
+git clone https://github.com/jatinsjha/RailSathi.git
